@@ -1,4 +1,5 @@
 # Patch-Recovery
+Based on https://github.com/Johx22/Patch-Recovery (I actually Fixed Error 2)
 This CI service patches recovery images of Samsung to enable Fastbootd. Based on Phh's [script](https://github.com/phhusson/samsung-galaxy-a51-gsi-boot)
 
 # How to use:
