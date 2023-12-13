@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       RECOVERY_URL:
-        description: 'RECOVERY URL'
+        description: 'https://transfer.sh/%28/iqmTIAiRUB/recovery.img%29.tar.gz'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://transfer.sh/%28/iqmTIAiRUB/recovery.img%29.tar.gz'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
